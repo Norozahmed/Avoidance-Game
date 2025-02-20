@@ -17,5 +17,5 @@ A simple yet engaging 2D game built with Pygame where you control a neon cyan ci
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/avoidance-game.git
+   git clone [https://github.com/Norozahmed/Avoidance-Game](https://github.com/Norozahmed/Avoidance-Game)
    cd avoidance-game
