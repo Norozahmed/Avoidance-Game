@@ -75,4 +75,4 @@ This is a simple avoidance game created using Pygame. The player controls a neon
 
 ## License
 
-This project is open source and available under the [Specify License - e.g., MIT License]
+This project is open source and It is for Learning purposes.
